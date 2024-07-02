@@ -1,0 +1,13 @@
+user2: hi
+user2: yo
+user1: sup
+user2: ok bye
+user2: kala
+user1: what
+user2: hi
+user1: sup
+user2: hou
+user1: hou2
+user2: hi
+user1: hiii
+user2: haiiii
